@@ -17,6 +17,7 @@ public class Tablica {
     }
 }
 
+
 //bardziej zaawansowany
 
 /*public class Main {
